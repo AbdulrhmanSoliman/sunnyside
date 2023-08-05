@@ -30,4 +30,4 @@ building a static and responsive page using HTML, CSS & JS
 
 ## Live Demo
 
-[Take a look 😀](https://abdulrhmansoliman.github.io/sunnyside/){:target="_blank" rel="noopener"}
+[Take a look 😀](https://abdulrhmansoliman.github.io/sunnyside/)
